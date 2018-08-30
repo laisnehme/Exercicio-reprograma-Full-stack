@@ -1,2 +1,2 @@
-# Exerc-cio-reprograma-Full-stack
+# Exercicio-reprograma-Full-stack
 É um quizz!
